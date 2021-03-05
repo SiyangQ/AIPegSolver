@@ -1,3 +1,11 @@
+/*
+ ============================================================================
+ Name        : ai.c
+ Author      : Siyang Qiu
+ Description : AI solver for peg solitaire game
+ ============================================================================
+ */
+
 #include <time.h>
 #include <stdlib.h>
 #include <limits.h>
